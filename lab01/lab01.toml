@@ -1,5 +1,5 @@
 [project]
-# due_date = "2025-01-21 23:59:59 -0700"
+due_date = "2025-01-23 23:59:59 -0700"
 
 [[tests]]
 name = "hello"
