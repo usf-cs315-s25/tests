@@ -1,4 +1,5 @@
 [project]
+due_date = "2025-02-18 23:59:59 -0800"
 timeout = 30
 
 [[tests]]
